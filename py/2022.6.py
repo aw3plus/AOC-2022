@@ -22,6 +22,7 @@ for maker in makers:
         i += 1
         if done: break
 
+
     print(i + 13, l)
     # break 
     
